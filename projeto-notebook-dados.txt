@@ -1,0 +1,86 @@
+TEMA:
+Orientador de carreira para conseguir o primeiro emprego como analista de dados júnior.
+
+OBJETIVO:
+Quero um orientador que me diga o que estudar, em que ordem, e como me apresentar para conseguir minha primeira vaga de analista de dados, partindo do zero em experiência na área.
+
+FONTES (link | formato | por que confio)
+
+CRITÉRIOS PARA UMA FONTE ENTRAR (precisa passar em pelo menos 3):
+1. O autor trabalha com dados ou é uma escola ou empresa conhecida.
+2. É de 2024 para cá.
+3. Tem conteúdo de verdade, e não só venda de curso.
+4. Fala do mercado brasileiro.
+
+1) O que o mercado busca nos profissionais de entrada (júnior)
+- https://toexceed.com.br/blog/2026/10/14/analista-de-dados-junior-salario-media-salarial-e-oportunidades-de-carreira/
+  | texto | artigo de outubro de 2026, focado especificamente no nível júnior, com salários e oportunidades
+- vagas-analista-dados-junior.pdf
+  | PDF | resumo de 5 vagas reais publicadas na Gupy (Afya, Banco Daycoval, Benner, Funcional Health Tech, Banco Mercantil); é o próprio mercado dizendo o que pede, sem intermediário
+
+2) O que um analista de dados júnior faz no dia a dia
+- https://www.youtube.com/watch?v=dLVv5T3k5j4
+  | vídeo | canal "Diário de um Analista de Dados", vídeo de abril de 2026; o autor mostra a própria rotina de trabalho (SQL, ETL, dashboards, comunicação) com as ferramentas reais que usa
+
+3) Como me destacar em hard skills e soft skills
+- https://www.youtube.com/watch?v=DvMtVz4dvZE
+  | vídeo | canal DATA DT, vídeo de abril de 2026, voltado para quem está em transição de carreira; cobre hard e soft skills
+- https://www.youtube.com/watch?v=0KWR9gHrqOo
+  | vídeo | canal "Bruce Fonseca - Dados + IA", sobre comunicação, feedback e trabalho em equipe; é de 2023, mas soft skills mudam pouco com o tempo
+
+4) Quais ferramentas as vagas pedem
+- https://blog.dsacademy.com.br/analista-de-dados-por-onde-comecar-em-5_passos/
+  | texto | Data Science Academy, escola brasileira especializada em dados há muitos anos
+
+5) Ordem de estudo realista (2 horas por dia)
+- https://www.alura.com.br/artigos/por-onde-comecar-estudos-area-dados
+  | texto | Alura, uma das maiores escolas de tecnologia do Brasil
+
+6) Portfólio de projetos no GitHub
+- https://www.datahireclub.com.br/guias/portfolio-dados-github
+  | texto | guia específico de portfólio de dados no GitHub
+- https://www.alura.com.br/conteudo/github-publicar-projetos-ciencia-dados
+  | texto | Alura, passo a passo de publicação de projetos no GitHub
+- https://analisemacro.com.br/data-science/como-criar-um-portfolio-em-ciencia-de-dados/
+- https://analisemacro.com.br/data-science/como-criar-um-portfolio-em-ciencia-de-dados-parte-02/
+- https://analisemacro.com.br/data-science/como-criar-um-portfolio-em-ciencia-de-dados-parte-03/
+  | texto | Análise Macro, série em 3 partes sobre portfólio (movida da gaveta de currículo, onde estava por engano)
+
+7) Currículo e LinkedIn
+- https://www.hashtagtreinamentos.com/curriculo-analista-de-dados
+  | texto | Hashtag Treinamentos, escola brasileira conhecida; traz modelos de currículo, inclusive um objetivo para analista júnior
+- https://jobrise.io/pt/blog/como-otimizar-linkedin-2026-guia-completo/
+  | texto | guia de 2026 com exemplos de título e "Sobre" específicos para analista de dados
+
+8) Entrevistas e testes técnicos
+- https://jobrise.io/pt/blog/entrevista-data-analyst-perguntas-respostas-2026/
+  | texto | 2026, focado em analista de dados no Brasil, com perguntas de triagem, técnicas (SQL) e comportamentais, e faixa salarial do júnior (substitui o artigo do PyPro, que era sobre IA e Ciência de Dados)
+- https://www.datacamp.com/pt/blog/data-science-interview-preparation
+  | texto | DataCamp, plataforma internacional de ensino de dados
+- https://www.serasaexperian.com.br/carreiras/blog-carreiras/como-se-preparar-para-entrevista-tecnica/
+  | texto | blog de carreiras da Serasa Experian, empresa que contrata profissionais de dados
+
+9) Como usar minha formação anterior (ADS e professor de Geografia)
+- https://blog.dsacademy.com.br/guia-definitivo-para-migracao-de-carreira-como-conquistar-seu-lugar-na-area-de-dados-parte-1/
+  | texto | Data Science Academy, guia específico de migração de carreira para dados
+
+DIRETRIZ:
+Comporte-se como um orientador de carreira especialista em Análise de Dados, que me acompanha na busca do primeiro emprego como analista de dados júnior. Sou formado em ADS, fui professor de Geografia e estudo 2 horas por dia. Responda só com base nas fontes, citando de onde veio cada informação. Seja direto e prático: dê passos concretos e em ordem. Quando as fontes não cobrirem algo, diga isso claramente.
+
+FONTES DO DEEP RESEARCH:
+Na busca, pedi só 4 fontes que seguissem meus 4 critérios. O Deep Research trouxe 17. Conferi as novas uma a uma:
+
+MANTIDAS:
+- Treinamento para analistas de dados - Microsoft Learn | texto | conteúdo oficial e gratuito da Microsoft, fabricante do Power BI, ferramenta pedida em todas as vagas do PDF
+- Como começar na área de dados (plano de 6 meses) - Hashtag Treinamentos | texto | escola brasileira conhecida, publicada em nov/2025 e atualizada em jul/2026, com plano mês a mês de Excel, Power BI, SQL, projetos e candidaturas
+
+REMOVIDAS:
+- Entre as Ciências Sociais e a Ciência de Dados (Medium) | publicada em 2021 e sem informar a profissão da autora (falhou nos critérios 1 e 2)
+- De pesquisador acadêmico a analista de dados (EBAC) | publicada em 2023 e é um depoimento usado para vender curso, com preço e cupom no meio do texto (falhou nos critérios 2 e 3)
+
+
+PERGUNTAS E RESPOSTAS:
+As 5 perguntas feitas ao notebook, com o resumo das respostas e as fontes citadas, estão no arquivo perguntas-e-respostas.md. Os prints estão na pasta prints.
+
+LINK DO NOTEBOOK:
+https://notebook.google.com/notebook/ac3ed425-cde4-4138-89e4-a24dceceb10e
